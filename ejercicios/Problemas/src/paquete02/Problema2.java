@@ -63,10 +63,14 @@ public class Problema2 {
 
     public static void generarReporte(String[] viviendas, double[] consumoAnual) {
 
-        String reporte = "REPORTE ANUAL DE CONSUMO ELECTRICO\n";
+        String reporte = String.format("REPORTE ANUAL DE CONSUMO ELECTRICO%n");
 
         for (int i = 0; i < viviendas.length; i++) {
-            reporte += viviendas[i] + ": " + consumoAnual[i] + " kWh\n";
+            reporte += String.format(
+                    "%-15s : %.2f kWh%n",
+                    viviendas[i],
+                    consumoAnual[i]
+            );
         }
 
         System.out.println(reporte);
