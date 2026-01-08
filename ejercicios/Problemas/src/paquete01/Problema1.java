@@ -21,6 +21,17 @@ public class Problema1 {
 
     public static void imprimirDatos(int[][] datos) {
 
-    }
+        String resultado = "";
 
+        for (int i = 0; i < datos.length; i++) {
+            for (int j = 0; j < datos[i].length; j++) {
+
+                if (datos[i][j] % 2 == 0) {
+                    resultado = String.format("%s%s ",resultado,datos[i][j]);
+                }
+            }
+        }
+
+        System.out.printf("%s\n",resultado);
+    }
 }

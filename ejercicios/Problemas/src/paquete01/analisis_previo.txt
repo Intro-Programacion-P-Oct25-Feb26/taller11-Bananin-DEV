@@ -1,0 +1,4 @@
+Para la resolución del siguiente problema voy a completar la función 
+imprimirDatos usando un for para leer el lenght de el arreglo información
+en el mismo voy a declarar una cadena acumuladora con la que pueda imprimir
+los datos recibidos después.
