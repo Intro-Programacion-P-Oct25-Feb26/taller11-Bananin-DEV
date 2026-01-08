@@ -1,3 +1,4 @@
 No tuve mayores incovenientes resolviendo este ejercicio
 El printF no me presentaba de manera adecuada asi que
 use un println en su lugar para presentar los resultados
+correcion ya encontre la manera de usar el printF.

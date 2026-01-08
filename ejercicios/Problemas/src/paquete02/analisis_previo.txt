@@ -1,0 +1,5 @@
+Para este problema voy a dividirlo en partes
+primero pienso declarar variables y solicitar por 
+teclado los valores e informacion, con esto ya podria
+obtener una matriz de consumo usando viviendas y meses
+con sus respectivos arreglos para retornar.
