@@ -48,17 +48,27 @@ public class Problema2 {
     }
 
     public static double[] calcularConsumoAnual(double[][] consumos) {
-        
+
         double[] totalAnual = new double[consumos.length];
 
         for (int i = 0; i < consumos.length; i++) {
             double suma = 0;
             for (int j = 0; j < consumos[i].length; j++) {
-                suma += consumos[i][j];
+                suma = suma + consumos[i][j];
             }
             totalAnual[i] = suma;
         }
         return totalAnual;
     }
-    
+
+    public static void generarReporte(String[] viviendas, double[] consumoAnual) {
+
+        String reporte = "REPORTE ANUAL DE CONSUMO ELECTRICO\n";
+
+        for (int i = 0; i < viviendas.length; i++) {
+            reporte += viviendas[i] + ": " + consumoAnual[i] + " kWh\n";
+        }
+
+        System.out.println(reporte);
+    }
 }
