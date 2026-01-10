@@ -1,0 +1,3 @@
+Para este codigo creo necesitar de dos procedimientos ademas del metodo principal
+para realizar lo solicitado ademas he de pedir informacion como Nombre y cedula
+y enviarlo a los procedimientos.

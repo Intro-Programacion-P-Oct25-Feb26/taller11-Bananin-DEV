@@ -1,0 +1,2 @@
+No tuve mayores inconvenientes salvo el uso de if, quise usar un switch
+pero me parecio mas simplificado el if y de igual forma funciona igual.

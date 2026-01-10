@@ -1,0 +1,2 @@
+Para este codigo vamos a usar un ingreso de valores 1,2 y 3 para saber
+que procedimiento accionar entre area de triangulo, cuadrado y rectangulo

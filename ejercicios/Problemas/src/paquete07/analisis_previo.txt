@@ -1,0 +1,3 @@
+Voy a hacer un ingreso por teclado de los valores/nombres de ciudades y el numero
+que se requiere de estas para que el for tenga limite basado en esto, luego 
+usando el .lenght limitare a pantalla las ciudades con 4 o 5 caracteres.

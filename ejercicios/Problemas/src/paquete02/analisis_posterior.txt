@@ -1,4 +1,5 @@
 Tuve inconvenientes ya que me toco hacer mas partes
 es decir 3 variables y 1 procedimiento sin contar el main
 no pensaba en un principio que iban a ser 4, en dos de ellas
-me toco declarar scanner para leer la informacion ingresada.
+me toco declarar scanner y asignarle un nombre en cada 
+funcion para leer la informacion ingresada.

@@ -1,0 +1,4 @@
+Vamos a utilizar un arreglo unidimensional que guarda los valores con
+los que vamos a trabajar usando operaciones basicas como
+calcular, sumar y dividir, usando funciones que retornaran los valores
+a el metodo principal. 

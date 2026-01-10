@@ -1,0 +1,2 @@
+Se utilizara dos matrices de igual cantidad de valores para poder sumarlas 
+con el fin de presentar una nueva serie de valores
